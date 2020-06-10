@@ -1,0 +1,86 @@
+
+/* Input box */
+
+#input-box {
+    display: inline-block;
+    width: 35%;
+    margin-bottom: 0;
+    margin: 10px 30px;
+    padding: 15px 0 0;
+    border: 0;
+    border-bottom: 1px solid grey;
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+/* Table CSS */
+
+.sortable-table {
+    width: 90%;
+    border-collapse: collapse;
+    margin: 10px 30px;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.sortable-table .sortable-th {
+    cursor: pointer;
+    background-color: #586E87; 
+    color: white;
+    padding: 10px 15px;
+}
+
+/* Header icons */
+
+.ascending-th, .descending-th {
+    background-color: #445569 !important;
+}
+
+.ascending-th::after,
+.descending-th::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    padding-left: 3px;
+}
+
+.ascending-th::after { 
+    content: "\f0dd";
+    
+}
+
+.descending-th::after {
+    content: "\f0de";
+}
+
+/* Table rows */
+
+.sortable-table tr {
+    text-align: center;
+    border-bottom: 1px solid #dddddd;
+}
+
+.sortable-table tr:nth-child(odd) {
+    background-color: #F5F5F5;
+}
+
+.sortable-table tr:last-of-type {
+    border-bottom: 2px solid #F01479;
+}
+
+#tableBody tr:hover {
+    background-color: #445569;
+    color: rgb(245, 245, 245);
+    border-bottom: 1.5px solid #F01479;
+}
+
+
+/* Table cells */
+
+.sortable-table td {
+    padding: 7px 10px;
+}
+
+#tableBody td:last-of-type {
+    border-right: 1px solid #dddddd;
+}
