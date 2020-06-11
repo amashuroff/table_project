@@ -11,6 +11,6 @@ Desktop FIRST
 
 
 ### Технологии:
-⋅⋅*Plain ECMAscript
-⋅⋅*DOM
-⋅⋅*Bootstrap 4
+⋅⋅* Plain ECMAscript
+⋅⋅* DOM
+⋅⋅* Bootstrap 4
