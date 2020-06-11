@@ -33,6 +33,15 @@
 
 /* Header icons */
 
+.hr-img {
+    width: 20px;
+    height: 20px;
+}
+
+.hr-img-hide {
+    display: none;
+}
+
 .ascending-th, .descending-th {
     background-color: #445569 !important;
 }

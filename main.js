@@ -86,6 +86,11 @@ function addSortingListeners() {
             const currentlyAscending = header.classList.contains('ascending-th');
             // if (column) is in ascending order, sort it in descending order and otherwise (if currentlyAscending === true, pass false)
             sortTableByColumn(tableBody, headerIndex, !currentlyAscending);
+
+            // hide default sort-img
+            document.querySelectorAll('.hr-img').forEach(img => {
+                img.classList.add('hr-img-hide');
+            })
         })
     })
 };
