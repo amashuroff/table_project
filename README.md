@@ -3,6 +3,9 @@
 
 Посмотреть: https://amashuroff.github.io/table_project/
 
+### Скриншот:
+![alt text](https://github.com/amashuroff/table_project/blob/master/screenshots/Screenshot%202020-06-11%20at%2015.53.43.png "Скриншот Таблицы")
+
 ### Функционал:
 
 1. Возможность отфильтровать строки в таблице по имени, фамилии, возрасту. 
