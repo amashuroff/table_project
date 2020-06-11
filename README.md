@@ -1,5 +1,7 @@
-# table_project see: https://amashuroff.github.io/table_project/
+
 ## Таблица, созданная из файла JSON, имеет функции фильтрации и сортировки.
+
+Посмотреть: https://amashuroff.github.io/table_project/
 
 ### Функционал:
 
