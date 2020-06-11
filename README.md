@@ -1,7 +1,7 @@
 # table_project
 ## Таблица, созданная из файла JSON, имеет функции фильтрации и сортировки.
 
-Desktop FIRST
+Desktop FIRST --- https://amashuroff.github.io/table_project/
 
 ### Функционал:
 
