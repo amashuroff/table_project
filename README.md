@@ -12,11 +12,11 @@ ___
 
 1. Ability to filter rows in the table by first name, last name, and age.
 
-_ Use the data entry field for search_
+_Use the data entry field for search_
 
 2. ability to sort the table by column in ascending order.
 
-_ Click on any header to sort the table. When you click again, the column will be sorted in descending order._
+_Click on any header to sort the table. When you click again, the column will be sorted in descending order._
 
 ___
 
