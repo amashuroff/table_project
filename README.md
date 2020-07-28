@@ -20,7 +20,7 @@ _ Click on any header to sort the table. When you click again, the column will b
 
 ___
 
-# # # Technologies:
+### Technologies:
 * Plain ECMAscript
 * DOM
 * Bootstrap 4
