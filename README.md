@@ -8,19 +8,19 @@ ___
 ![alt text](https://github.com/amashuroff/table_project/blob/master/screenshots/Screenshot%202020-06-11%20at%2015.53.43.png "Скриншот Таблицы")
 ___
 
-### Функционал:
+### Functionality:
 
-1. Возможность отфильтровать строки в таблице по имени, фамилии, возрасту. 
+1. Ability to filter rows in the table by first name, last name, and age.
 
-    _Используйте поле ввода данных для поиска_
+_ Use the data entry field for search_
 
-2. Возможность сортировки таблицы по столбцу возрастающем порядке.  
+2. ability to sort the table by column in ascending order.
 
-    _Нажмите на любой заголовок, чтобы отсортировать таблицу. При повторном нажатии столбец отсортируется в порядке убывания._ 
+_ Click on any header to sort the table. When you click again, the column is sorted in descending order._
 
 ___
 
-### Технологии:
+# # # Technologies:
 * Plain ECMAscript
 * DOM
 * Bootstrap 4
