@@ -16,7 +16,7 @@ _ Use the data entry field for search_
 
 2. ability to sort the table by column in ascending order.
 
-_ Click on any header to sort the table. When you click again, the column is sorted in descending order._
+_ Click on any header to sort the table. When you click again, the column will be sorted in descending order._
 
 ___
 
